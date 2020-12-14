@@ -34,4 +34,4 @@ Simple example Ajax with Laravel 5.8 and jQuery 3.x
 
 ```
 
-![Capture](https://user-images.githubusercontent.com/37043938/102061869-00e4d280-3e1a-11eb-94cd-cc888e70e93f.PNG)
+![ajaxcrud](https://user-images.githubusercontent.com/37043938/102091020-3acace80-3e44-11eb-90fd-9a8b330a5a22.gif)
