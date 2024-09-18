@@ -1,6 +1,7 @@
 # LaravelAjax
 
-[![Build Status](https://travis-ci.org/Tony133/LaravelAjax.svg?branch=master)](https://travis-ci.org/Tony133/LaravelAjax)
+![Project Complete](https://img.shields.io/badge/Status-Project%20Complete-brightgreen)
+
 
 Simple example Ajax with Laravel 5.8 and jQuery 3.x
 
